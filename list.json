@@ -1,0 +1,53 @@
+[
+
+        {
+            "id": 1,
+            "name":"Story Book" ,
+            "title":"Journey to the Stars",
+            "price" : 0,
+            "category":"Free",
+            "image":"https://img.freepik.com/free-vector/tiny-woman-sitting-huge-book-flat-vector-illustration_74855-5946.jpg?t=st=1722920876~exp=1722924476~hmac=c53ea459e000611ad43a8575ddbe2eae37558252b5f1c694bae7c6965a568a01&w=740"
+        },
+
+        {
+            "id": 2,
+            "name":"Fantasy Book" ,
+            "title":"The Name of the Wind by Patrick Rothfuss",
+            "price" : 10,
+            "category":"Free",
+            "image":"https://img.freepik.com/free-photo/boy-fantasy-world_23-2151732227.jpg?t=st=1722921205~exp=1722924805~hmac=1cca31ef7b1b96f76352e2fd0b9b6553b9e8444b18ff788e9ca9258b1b3bfd97&w=740"
+        },
+        {
+            "id": 3,
+            "name":"Fantasy Book" ,
+            "title":"The Name of the Wind by Patrick Rothfuss",
+            "price" : 30,
+            "category":"Fantasy",
+            "image":"https://img.freepik.com/free-photo/boy-fantasy-world_23-2151732227.jpg?t=st=1722921205~exp=1722924805~hmac=1cca31ef7b1b96f76352e2fd0b9b6553b9e8444b18ff788e9ca9258b1b3bfd97&w=740"
+        },
+        {
+            "id": 4,
+            "name":"Fantasy Book" ,
+            "title":"The Name of the Wind by Patrick Rothfuss",
+            "price" : 40,
+            "category":"Fantasy",
+            "image":"https://img.freepik.com/free-photo/boy-fantasy-world_23-2151732227.jpg?t=st=1722921205~exp=1722924805~hmac=1cca31ef7b1b96f76352e2fd0b9b6553b9e8444b18ff788e9ca9258b1b3bfd97&w=740"
+        },
+        {
+            "id": 5,
+            "name":"Fantasy Book" ,
+            "title":"The Name of the Wind by Patrick Rothfuss",
+            "price" : 50,
+            "category":"Fantasy",
+            "image":"https://img.freepik.com/free-photo/boy-fantasy-world_23-2151732227.jpg?t=st=1722921205~exp=1722924805~hmac=1cca31ef7b1b96f76352e2fd0b9b6553b9e8444b18ff788e9ca9258b1b3bfd97&w=740"
+        },
+        {
+            "id": 6,
+            "name":"Fantasy Book" ,
+            "title":"The Name of the Wind by Patrick Rothfuss",
+            "price" : 60,
+            "category":"Fantasy",
+            "image":"https://img.freepik.com/free-photo/boy-fantasy-world_23-2151732227.jpg?t=st=1722921205~exp=1722924805~hmac=1cca31ef7b1b96f76352e2fd0b9b6553b9e8444b18ff788e9ca9258b1b3bfd97&w=740"
+        }
+
+]
